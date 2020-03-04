@@ -2,3 +2,13 @@ img.img-fluid {
     height: 250px;
     width: 100%;
 }
+#grid {
+    display: flex;
+    justify-content: center;
+}
+input {
+    width: 400px;
+}
+.custom-select {
+    width: 400px;
+}
