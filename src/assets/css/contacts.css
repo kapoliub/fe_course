@@ -14,6 +14,9 @@ header .inline_list_item {
 header .inline_list_item:first-of-type {
     padding-right: 70px;
 }
+header .fas.fa-hands-helping, .fas.fa-mobile-alt {
+    color: green;
+}
 footer {
     background-color: #000000;
     color: gray;
