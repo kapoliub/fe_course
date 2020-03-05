@@ -36,14 +36,17 @@ footer #grid {
 footer b.first_b {
     color: #fff;
 }
-footer .fab.fa-facebook {
+.fab.fa-facebook {
     color: blue;
 }
-footer .fab.fa-twitter-square {
+.fab.fa-twitter-square {
     color: lightblue;
 }
-footer .fab.fa-google-plus-g {
+.fab.fa-google-plus-g {
     color: red;
+}
+footer .input_email {
+    width: auto;
 }
 hr {
     color: #fff;
@@ -71,3 +74,4 @@ input {
     color: #000;
     text-align: center;
 }
+
