@@ -74,4 +74,8 @@ input {
     color: #000;
     text-align: center;
 }
+p.swzr_p, p.cnd_p {
+    color: gray;
+    font-size: smaller;
+}
 
