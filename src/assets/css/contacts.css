@@ -36,23 +36,17 @@ footer #grid {
 footer b.first_b {
     color: #fff;
 }
-footer .input_email {
-    display: flex;
-    position: relative;
-}
-footer .btn.btn-success {
-    display: flex;
-    position: relative;
-    left: 1px;
-}
-footer .fab.fa-facebook {
+.fab.fa-facebook {
     color: blue;
 }
-footer .fab.fa-twitter-square {
+.fab.fa-twitter-square {
     color: lightblue;
 }
-footer .fab.fa-google-plus-g {
+.fab.fa-google-plus-g {
     color: red;
+}
+footer .input_email {
+    width: auto;
 }
 hr {
     color: #fff;
