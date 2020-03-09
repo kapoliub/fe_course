@@ -49,10 +49,6 @@ footer b.first_b {
 footer .input_email {
     width: auto;
 }
-hr {
-    color: #fff;
-    width: 50px;
-}
 footer p {
     text-align: center;
 }
@@ -98,4 +94,17 @@ p.q_right {
 }
 .fas.fa-star {
     color: #ffa500;
+}
+hr {
+    margin-top: 50px;
+    width: 80%;
+}
+.our_team {
+    text-align: center;
+    margin-top: 50px;
+}
+.container.last img {
+    width: 250px;
+    height: 300px;
+    padding: 0px;
 }
