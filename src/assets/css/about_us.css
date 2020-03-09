@@ -1,0 +1,57 @@
+/* CSS for Contacts page should lives there */
+header .inline_list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+header a {
+    list-style: none;
+    color: #000000;
+}
+header .inline_list_item {
+    padding: 20px;
+}
+header .inline_list_item:first-of-type {
+    padding-right: 70px;
+}
+header .fas.fa-hands-helping, .fas.fa-mobile-alt {
+    color: green;
+}
+footer {
+    background-color: #000000;
+    color: gray;
+}
+footer a {
+    color: gray;
+}
+footer ul {
+    list-style: none;
+    padding-top: 30px;
+    line-height: 35px;
+}
+footer #grid {
+    display: flex;
+    justify-content: center;
+}
+footer b.first_b {
+    color: #fff;
+}
+.fab.fa-facebook {
+    color: blue;
+}
+.fab.fa-twitter-square {
+    color: lightblue;
+}
+.fab.fa-google-plus-g {
+    color: red;
+}
+footer .input_email {
+    width: auto;
+}
+hr {
+    color: #fff;
+    width: 50px;
+}
+footer p {
+    text-align: center;
+}
