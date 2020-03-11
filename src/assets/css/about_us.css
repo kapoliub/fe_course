@@ -95,16 +95,12 @@ p.q_right {
 .fas.fa-star {
     color: #ffa500;
 }
-hr {
-    margin-top: 50px;
-    width: 80%;
+.container.two .header_in_c2 {
+    color:#ff0000;
 }
-.our_team {
-    text-align: center;
-    margin-top: 50px;
-}
-.container.last img {
-    width: 250px;
-    height: 300px;
-    padding: 0px;
+.btn.btn-success {
+    margin: 50px;
+    display: flex;
+    position: relative;
+    left: 43%;
 }
