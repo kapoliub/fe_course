@@ -18,6 +18,7 @@ header .fas.fa-hands-helping, .fas.fa-mobile-alt {
     color: green;
 }
 footer {
+    margin-top: 200px;
     background-color: #000000;
     color: gray;
 }
@@ -48,10 +49,58 @@ footer b.first_b {
 footer .input_email {
     width: auto;
 }
-hr {
-    color: #fff;
-    width: 50px;
-}
 footer p {
     text-align: center;
+}
+/* main */
+main {
+    font-family: sans-serif;
+}
+main .img-fluid {
+    width: 100%;
+    height: 250px;
+}
+.team {
+    float: left;
+    height: 300px;
+    margin-right: 100px;
+}
+.first-p {
+    color: #808080;
+}
+.must_be_gray {
+    color:#808080;
+}
+div.row p {
+    margin:0;
+    padding:0;
+}
+.container.two {
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #e2e2e2;
+    text-align: center;
+}
+p.q_left {
+    display: flex;
+    justify-content: flex-start;
+}
+p.must_be_gray {
+    text-align: center;
+}
+p.q_right {
+    display: flex;
+    justify-content: flex-end;
+}
+.fas.fa-star {
+    color: #ffa500;
+}
+.container.two .header_in_c2 {
+    color:#ff0000;
+}
+.btn.btn-success {
+    margin: 50px;
+    display: flex;
+    position: relative;
+    left: 43%;
 }

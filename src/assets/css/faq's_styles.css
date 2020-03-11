@@ -55,3 +55,56 @@ hr {
 footer p {
     text-align: center;
 }
+/* main */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.img .img-fluid{
+    width: 100%;
+    height: 250px;
+}
+main h2 {
+    text-align: center;
+}
+main input {
+    height: 50px;
+}
+main ul {
+    align-items: center;
+}
+main li {
+    list-style: none;
+    line-height: 40px;
+}
+main .fas.fa-arrow-right {
+    color: #008000;
+}
+.text_ul_1 {
+    color: #808080;
+    line-height: 30px;
+}
+.bottom_of_main {
+    background-color: #fff4f4;
+}
+.ask_ur_q {
+    text-align: center;
+}
+.p_for_h1 {
+    color: #808080;
+    text-align: center;
+}
+a.contact_us {
+    color: #000000;
+    text-decoration: underline;
+}
+.form_group {
+    text-align: center;
+}
+.form_group input {
+    width: 410px;
+}
+.col-sm {
+    margin: 40px;
+}

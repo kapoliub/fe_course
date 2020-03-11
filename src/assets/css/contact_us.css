@@ -55,3 +55,27 @@ hr {
 footer p {
     text-align: center;
 }
+/* contact_us styles */
+img.img-fluid {
+    height: 250px;
+    width: 100%;
+}
+#grid {
+    display: flex;
+    justify-content: center;
+}
+input {
+    width: 400px;
+}
+#inputGroupSelect02 {
+    width: 300px;
+}
+.card-title {
+    color: #000;
+    text-align: center;
+}
+p.swzr_p, p.cnd_p {
+    color: gray;
+    font-size: smaller;
+}
+
